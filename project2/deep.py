@@ -1,0 +1,2 @@
+luist = [[[[]]]]
+print(luist)

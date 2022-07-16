@@ -1,0 +1,3 @@
+C:/Users/Antionne/CLionProjects/projects/proj4/cmake-build-debug/CMakeFiles/proj4.dir
+C:/Users/Antionne/CLionProjects/projects/proj4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Antionne/CLionProjects/projects/proj4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
